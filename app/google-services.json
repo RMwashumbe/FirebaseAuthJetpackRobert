@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683862764143",
+    "project_id": "fir-authjetpackrobert",
+    "storage_bucket": "fir-authjetpackrobert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683862764143:android:f8765d5e579d03b96ebb9a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthjetpackrobert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683862764143-djd44m3cvtiahs6f9fhm1t5f4749dpai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF44UJ5k2c4brbJbQg7cBiBtj5SwONq-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683862764143-djd44m3cvtiahs6f9fhm1t5f4749dpai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
